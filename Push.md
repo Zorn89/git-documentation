@@ -1,0 +1,2 @@
+# Push
+Bei der Push-Technologie handelt es sich um Software, die die Bereitstellung von Informationen automatisiert. Eine Push-Umgebung sendet Informationen proaktiv per E-Mail, Webbrowser, App, Pager oder Sprachnachricht an eine Person. Anders gesagt, die Person erhält Informationen, ohne sie anzufordern.
