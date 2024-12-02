@@ -1,0 +1,2 @@
+# Repository
+Ein Repository oder Repo ist ein zentraler digitaler Speicher, den Entwickler verwenden, um Änderungen am Quellcode einer Anwendung vorzunehmen und zu verwalten. Bei der Entwicklung von Software müssen Entwickler Ordner, Textdateien und andere Arten von Dokumenten speichern und gemeinsam nutzen.
