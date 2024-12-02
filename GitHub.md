@@ -1,0 +1,2 @@
+# GitHub
+GitHub ist eine Plattform für Versionskontrolle und Zusammenarbeit mehrerer Entwickler. Hier können Projekte erstellt, verwaltet und geteiltwerden. Jede Veränderung wird Dokumentiert. Es können mehrere Entwickler mit unterschiedlichen Aufgaben gleichzeitig Arbeiten.
