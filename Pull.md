@@ -1,0 +1,2 @@
+# Pull
+Das Pull-Model ist ein Pattern zur Datenübertragung, bei dem der Datenempfänger sich die nächsten Informationen selbst holt, wenn er sie benötigt bzw. die nächsten Daten verarbeitet werden können. Der Empfänger meldet sich beim Datenlieferanten an.
