@@ -1,0 +1,2 @@
+# Git
+Git ist eine freie Software zur verteilten Versionsverwaltung von Datein. Ein System das zur Erfassung von Änderungen an Dokumenten oder Dateien verwendet wird. Alle Versionen werden in einem Archiv mit Zeitstempel und BN-Kennung gesichert und können später wiederhergestellt werden. 
